@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836646547024",
+    "project_id": "devgeeks-pet",
+    "storage_bucket": "devgeeks-pet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836646547024:android:1450927417cda5b8256b55",
+        "android_client_info": {
+          "package_name": "com.devgeeks.pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836646547024-er0avlqei7tq5f2dmmei3npfsp9h3191.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATnGaW-bxtpiE3wPFww-C3vuOKdAhhv5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836646547024-er0avlqei7tq5f2dmmei3npfsp9h3191.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
